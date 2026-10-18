@@ -56,8 +56,7 @@ Confira meus projetos e acompanhe minha evolução como desenvolvedor:
 ## 📫 Contato
 
 - 📧 **E-mail:** lucasbrian130502@gmail.com
-- 💼 **LinkedIn:** Adicione aqui o link do seu perfil
-- 🌐 **Portfólio:** [Acesse meu portfólio](https://portfolio-drab-eight-96.vercel.app/)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/lucas-brian/)
 
 ---
 
